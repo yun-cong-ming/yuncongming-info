@@ -27,10 +27,7 @@
 
 *   **GitHub Organization:** [https://github.com/yuncongming](https://github.com/yuncongming)
 *   **GitHub Documentation:** [https://docs.github.com/](https://docs.github.com/)
-*   **Cloud Intelligence Communities (Examples):**
-    *   [Baidu AI Cloud](https://cloud.baidu.com/) – A leading Chinese cloud provider with extensive AI services.
-    *   [Alibaba Cloud AI Platform](https://www.aliyun.com/club/ai) - Another major player in the Chinese cloud market.
-
+*  
 ---
 
 ## Contact
